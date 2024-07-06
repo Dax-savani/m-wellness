@@ -11,8 +11,9 @@ const theme = createTheme({
         green: "#397A4A",
         white: "#F5F7F5",
         cream: "#f7f0e6",
+        liteCream: "#FFFCF6",
         textGray: "#6D706D",
-
+        mayGreen: "#5faa41",
     },
 });
 export default theme;
